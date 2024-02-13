@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    width:50%;
+    border:1px solid black;
+    margin-left:400px;
+}
+header{
+    border-bottom:1px solid rgb(247, 128, 128);
+    padding:10px;
+}
+nav{
+    padding:10px;
+    border-bottom:1px solid rgb(247,128,128)
+}
+nav span{
+    margin-left:10px;   
+}
+nav span:first-child{
+    border-bottom:2px solid black;
+}
+.img{
+    float:right;
+    margin:15px;
+}
+main section{
+    padding:20px;
+}
+.content{
+    padding:20px;
+}
+.content p{
+    margin-bottom:20px;
+
+}
